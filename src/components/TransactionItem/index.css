@@ -1,0 +1,17 @@
+.title-item {
+  width: 40%;
+}
+.amount-item {
+  width: 30%;
+}
+.type-item {
+  width: 20%;
+}
+.delete-btn {
+  width: 10%;
+  border: none;
+  background-color: transparent;
+}
+.delete-img {
+  width: 24px;
+}
